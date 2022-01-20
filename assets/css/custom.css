@@ -2,18 +2,15 @@ html {
     overflow: scroll;
     overflow-x: hidden;
 }
-/*
+
 ::-webkit-scrollbar {
     width: 0;
-    /* Remove scrollbar space
     background: transparent;
-    /* Optional: just make scrollbar invisible 
 }
 
-/* Optional: show position indicator in red 
 ::-webkit-scrollbar-thumb {
     background: #FFD014;
-}*/
+}
 
 h1 {
     font-size: 3.5rem;
