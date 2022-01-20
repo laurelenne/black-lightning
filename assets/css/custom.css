@@ -79,7 +79,7 @@ nav a::after {
 
 #hover {
     height: 100vh;
-    background-image: url("/assets/img/logo-background.png");
+    background-image: url("https://laurelenne.github.io/black-lightning/assets/img/logo-background.png");
     background-repeat: no-repeat;
     width: 100%;
     background-position: center;
@@ -89,7 +89,7 @@ nav a::after {
 #hover .logo {
     height: 120%;
     width: auto;
-    background-image: url("/assets/img/logo-animated.svg");
+    background-image: url("https://laurelenne.github.io/black-lightning/assets/img/logo-animated.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -129,7 +129,7 @@ nav a::after {
 /* Sections équipe */
 
 .section.equipe {
-    background-image: url("../img/logo.svg");
+    background-image: url("https://laurelenne.github.io/black-lightning/assets/img/logo.svg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
