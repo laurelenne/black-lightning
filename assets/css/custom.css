@@ -13,7 +13,7 @@ html {
 }
 
 h1 {
-    font-size: 3.5rem;
+    font-size: 3.5em;
 }
 
 h1,
@@ -91,6 +91,13 @@ nav a::after {
     background-size: contain;
     background-position: center;
     transform: rotate(45deg);
+}
+
+@media all and (max-width: 807px) { 
+
+    #hover .logo {
+        background-position-x: 20px;
+    }
 }
 
 #hover #background {
